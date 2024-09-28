@@ -1,4 +1,4 @@
-Here’s a complete `README.md` file tailored for your hotel chatbot project, ready for copy-pasting into your GitHub repository:
+
 
 ```md
 # Hotel Chatbot Project
